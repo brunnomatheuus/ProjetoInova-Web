@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TextInputMask renders controlled component 1`] = `
+<input
+  kind="cpf"
+  onChange={[Function]}
+  value=""
+/>
+`;
+
+exports[`TextInputMask renders controlled component with initial value 1`] = `
+<input
+  kind="cpf"
+  onChange={[Function]}
+  value="223"
+/>
+`;
+
+exports[`TextInputMask renders uncontrolled component 1`] = `
+<input
+  kind="cpf"
+  onChange={[Function]}
+  value=""
+/>
+`;
